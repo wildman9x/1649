@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-27T19:53:03.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="XRzZts0VP2-L2omTAqrB" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-27T22:34:12.228Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="fN6L4L3kNaOukm0bT0Hm" version="20.0.4" type="github">
   <diagram id="hXrJHykNK_w1q5rY7eCk" name="Page-1">
-    <mxGraphModel dx="4595" dy="2840" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FAF2F2" math="0" shadow="0">
+    <mxGraphModel dx="6703" dy="3787" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FAF2F2" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -239,6 +239,261 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="2323" y="1733.5" as="sourcePoint" />
             <mxPoint x="2510" y="1729.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-94" value="main()" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF0DE;strokeColor=#291D00;strokeWidth=5;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;fontStyle=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-974" y="2501" width="421" height="299" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-95" value="Stack" style="endArrow=none;html=1;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;strokeColor=#404E52;strokeWidth=8;curved=1;labelBackgroundColor=none;verticalAlign=top;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-981" y="2831" as="sourcePoint" />
+            <mxPoint x="-553" y="2832" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-96" value="0x1000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-967" y="2618" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-97" value="0x1004" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-967" y="2676.5" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-98" value="10" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;strokeColor=#291D00;strokeWidth=5;fillColor=#FFF0DE;" vertex="1" parent="1">
+          <mxGeometry x="-795" y="2609.5" width="118" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-99" value="a" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-657" y="2618" width="72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-100" value="20" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;strokeColor=#291D00;strokeWidth=5;fillColor=#FFF0DE;" vertex="1" parent="1">
+          <mxGeometry x="-795" y="2668" width="118" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-117" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;endArrow=block;endFill=1;strokeColor=#404E52;strokeWidth=8;" edge="1" parent="1" source="pmCEqVnquUUghloOuYzt-101" target="pmCEqVnquUUghloOuYzt-112">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-426" y="2688" />
+              <mxPoint x="-426" y="2357" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-101" value="b" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-652" y="2673" width="62" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-102" value="0x1008" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-967" y="2735.5" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-103" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;strokeColor=#291D00;strokeWidth=5;fillColor=#FFF0DE;" vertex="1" parent="1">
+          <mxGeometry x="-795" y="2727" width="118" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-104" value="c" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="2732" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-106" value="isEven()" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF0DE;strokeColor=#291D00;strokeWidth=5;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;fontStyle=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-974" y="2181" width="421" height="299" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-107" value="0x1019" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-967" y="2286.5" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-108" value="0x1023" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-967" y="2345" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-109" value="10" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;strokeColor=#291D00;strokeWidth=5;fillColor=#FFF0DE;" vertex="1" parent="1">
+          <mxGeometry x="-795" y="2278" width="118" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-110" value="a" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-647" y="2286.5" width="52" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-111" value="20" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;strokeColor=#291D00;strokeWidth=5;fillColor=#FFF0DE;" vertex="1" parent="1">
+          <mxGeometry x="-795" y="2336.5" width="118" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-112" value="b" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="2341.5" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-113" value="0x1027" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-967" y="2404" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-114" value="false" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;strokeColor=#291D00;strokeWidth=5;fillColor=#FFF0DE;" vertex="1" parent="1">
+          <mxGeometry x="-795" y="2395.5" width="118" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-115" value="result" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-692" y="2404" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-116" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;endArrow=block;endFill=1;strokeColor=#404E52;strokeWidth=8;" edge="1" parent="1" source="pmCEqVnquUUghloOuYzt-99" target="pmCEqVnquUUghloOuYzt-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-478" y="2633" />
+              <mxPoint x="-478" y="2302" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-118" value="main()" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF0DE;strokeColor=#291D00;strokeWidth=5;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;fontStyle=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="249" y="2501" width="421" height="299" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-119" value="Stack" style="endArrow=none;html=1;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;strokeColor=#404E52;strokeWidth=8;curved=1;labelBackgroundColor=none;verticalAlign=top;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="242.00000000000023" y="2830.9999999999995" as="sourcePoint" />
+            <mxPoint x="670" y="2832.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-120" value="0x1000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="256" y="2618" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-121" value="0x1004" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="256" y="2676.5" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-122" value="10" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;strokeColor=#291D00;strokeWidth=5;fillColor=#FFF0DE;" vertex="1" parent="1">
+          <mxGeometry x="428" y="2609.5" width="118" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-123" value="a" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="566" y="2618" width="72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-124" value="20" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;strokeColor=#291D00;strokeWidth=5;fillColor=#FFF0DE;" vertex="1" parent="1">
+          <mxGeometry x="428" y="2668" width="118" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-125" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;endArrow=block;endFill=1;strokeColor=#404E52;strokeWidth=8;" edge="1" source="pmCEqVnquUUghloOuYzt-126" target="pmCEqVnquUUghloOuYzt-136" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="797" y="2688" />
+              <mxPoint x="797" y="2357" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-126" value="b" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="571" y="2673" width="62" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-127" value="0x1008" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="256" y="2735.5" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-128" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;strokeColor=#291D00;strokeWidth=5;fillColor=#FFF0DE;" vertex="1" parent="1">
+          <mxGeometry x="428" y="2727" width="118" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-129" value="c" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="523" y="2732" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-130" value="isEven()" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF0DE;strokeColor=#291D00;strokeWidth=5;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;fontStyle=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="249" y="2181" width="421" height="299" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-131" value="0x1019" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="256" y="2286.5" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-132" value="0x1023" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="256" y="2345" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-133" value="10" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;strokeColor=#291D00;strokeWidth=5;fillColor=#FFF0DE;" vertex="1" parent="1">
+          <mxGeometry x="428" y="2278" width="118" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-134" value="a" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="576" y="2286.5" width="52" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-135" value="20" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;strokeColor=#291D00;strokeWidth=5;fillColor=#FFF0DE;" vertex="1" parent="1">
+          <mxGeometry x="428" y="2336.5" width="118" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-136" value="b" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="523" y="2341.5" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-137" value="0x1027" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="256" y="2404" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-138" value="true" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;strokeColor=#291D00;strokeWidth=5;fillColor=#FFF0DE;" vertex="1" parent="1">
+          <mxGeometry x="428" y="2395.5" width="118" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-139" value="result" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="531" y="2404" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-140" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;endArrow=block;endFill=1;strokeColor=#404E52;strokeWidth=8;" edge="1" source="pmCEqVnquUUghloOuYzt-123" target="pmCEqVnquUUghloOuYzt-134" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="745" y="2633" />
+              <mxPoint x="745" y="2302" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-141" value="&#xa;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: &amp;quot;Lexend Exa&amp;quot;; font-size: 32px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;result = (a + b) % 2 == 0&lt;/span&gt;&#xa;&#xa;" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;strokeColor=#404E52;strokeWidth=8;curved=1;endWidth=42.85714285714286;endSize=27.95;width=93.33333333333334;align=center;verticalAlign=middle;" edge="1" parent="1">
+          <mxGeometry x="0.0148" y="-16" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-394" y="2515" as="sourcePoint" />
+            <mxPoint x="149" y="2511" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-143" value="main()" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF0DE;strokeColor=#291D00;strokeWidth=5;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;fontStyle=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="-1894" y="2511" width="421" height="299" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-144" value="Stack" style="endArrow=none;html=1;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;strokeColor=#404E52;strokeWidth=8;curved=1;labelBackgroundColor=none;verticalAlign=top;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1900.9999999999998" y="2840.9999999999995" as="sourcePoint" />
+            <mxPoint x="-1473" y="2842.0000000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-145" value="0x1000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-1887" y="2628" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-146" value="0x1004" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-1887" y="2686.5" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-147" value="10" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;strokeColor=#291D00;strokeWidth=5;fillColor=#FFF0DE;" vertex="1" parent="1">
+          <mxGeometry x="-1715" y="2619.5" width="118" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-148" value="a" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-1577" y="2628" width="72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-149" value="20" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;strokeColor=#291D00;strokeWidth=5;fillColor=#FFF0DE;" vertex="1" parent="1">
+          <mxGeometry x="-1715" y="2678" width="118" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-150" value="b" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-1572" y="2683" width="62" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-151" value="0x1008" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-1887" y="2745.5" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-152" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;strokeColor=#291D00;strokeWidth=5;fillColor=#FFF0DE;" vertex="1" parent="1">
+          <mxGeometry x="-1715" y="2737" width="118" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-153" value="c" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="-1620" y="2742" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-154" value="c = isEven(a, b)" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;strokeColor=#404E52;strokeWidth=8;curved=1;endWidth=42.85714285714286;endSize=26.283333333333335;width=68.33333333333334;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-1431" y="2555" as="sourcePoint" />
+            <mxPoint x="-1015" y="2541" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-156" value="main()" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFF0DE;strokeColor=#291D00;strokeWidth=5;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;fontStyle=1;verticalAlign=top;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1279" y="2484.67" width="421" height="299" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-157" value="Stack" style="endArrow=none;html=1;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;strokeColor=#404E52;strokeWidth=8;curved=1;labelBackgroundColor=none;verticalAlign=top;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1272" y="2814.6699999999996" as="sourcePoint" />
+            <mxPoint x="1700" y="2815.6700000000005" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-158" value="0x1000" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="1286" y="2601.67" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-159" value="0x1004" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="1286" y="2660.17" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-160" value="10" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;strokeColor=#291D00;strokeWidth=5;fillColor=#FFF0DE;" vertex="1" parent="1">
+          <mxGeometry x="1458" y="2593.17" width="118" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-161" value="a" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="1596" y="2601.67" width="72" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-162" value="20" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;strokeColor=#291D00;strokeWidth=5;fillColor=#FFF0DE;" vertex="1" parent="1">
+          <mxGeometry x="1458" y="2651.67" width="118" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-163" value="b" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="1601" y="2656.67" width="62" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-164" value="0x1008" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="1286" y="2719.17" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-165" value="true" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;strokeColor=#291D00;strokeWidth=5;fillColor=#FFF0DE;" vertex="1" parent="1">
+          <mxGeometry x="1458" y="2710.67" width="118" height="47" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-166" value="c" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;" vertex="1" parent="1">
+          <mxGeometry x="1553" y="2715.67" width="158" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pmCEqVnquUUghloOuYzt-167" value="return result" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;labelBackgroundColor=none;fontFamily=Lexend Exa;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLexend%2BExa;fontSize=32;strokeColor=#404E52;strokeWidth=8;curved=1;endWidth=42.85714285714286;endSize=26.283333333333335;width=68.33333333333334;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="871" y="2609.5" as="sourcePoint" />
+            <mxPoint x="1199" y="2601.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
